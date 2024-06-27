@@ -4,7 +4,7 @@ This repo follows the Solana developer program course made possible by COMETS OF
 
 ## Chapters:
 - Chapter 1 - ✅ Done
-- Chapter 2 - ⏳
+- Chapter 2 - ✅ Done
 - Chapter 3 - ⏳
 - Chapter 4 - ⏳
 - Chapter 5 - ⏳
