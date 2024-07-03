@@ -2,19 +2,19 @@
 
 This repo follows the Solana developer program course made possible by COMETS OF WEB3 supported by Solana Foundation
 
-## Chapters:
-- Chapter 1 - ✅ Done
-- Chapter 2 - ✅ Done
-- Chapter 3 - ⏳
-- Chapter 4 - ⏳
-- Chapter 5 - ⏳
-- Chapter 6 - ⏳
-- Chapter 7 - ⏳
-- Chapter 8 - ⏳
-- Chapter 9 - ⏳
-- Chapter 10 - ⏳
-- Chapter 11 - ⏳
-- Chapter 12 - ⏳
+## Lessons:
+- Lesson 1 - ✅ Done
+- Lesson 2 - ✅ Done
+- Lesson 3 - ✅ Done
+- Lesson 4 - ⏳
+- Lesson 5 - ⏳
+- Lesson 6 - ⏳
+- Lesson 7 - ⏳
+- Lesson 8 - ⏳
+- Lesson 9 - ⏳
+- Lesson 10 - ⏳
+- Lesson 11 - ⏳
+- Lesson 12 - ⏳
 
 ## Usage:
 ### 1. TBA
