@@ -7,7 +7,7 @@ This repo follows the Solana developer program course made possible by COMETS OF
 - Lesson 2 - ✅ Done
 - Lesson 3 - ✅ Done
 - Lesson 4 - ✅ Done
-- Lesson 5 - ⏳
+- Lesson 5 - ✅ Done
 - Lesson 6 - ⏳
 - Lesson 7 - ⏳
 - Lesson 8 - ⏳
