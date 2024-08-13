@@ -8,16 +8,8 @@ This repo follows the Solana developer program course made possible by COMETS OF
 - Lesson 3 - ✅ Done
 - Lesson 4 - ✅ Done
 - Lesson 5 - ✅ Done
-- Lesson 6 - ⏳
-- Lesson 7 - ⏳
-- Lesson 8 - ⏳
-- Lesson 9 - ⏳
-- Lesson 10 - ⏳
-- Lesson 11 - ⏳
-- Lesson 12 - ⏳
-
-## Usage:
-### 1. TBA
-```bash
-...
-```
+- Lesson 6 - ✅ Done
+- Lesson 7 - ✅ Done
+- Lesson 8 - ✅ Done
+- Lesson 9 & 10 - ✅ Done
+- Lesson 11 - ✅ Done
